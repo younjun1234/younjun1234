@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
+<hr>
+Welcome to my page!
+I am a web developer from South Korea🇰🇷.
+
+<h3>Things I code with</h3>
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
+
+
+
+
 
 <!--
 **younjun1234/younjun1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
