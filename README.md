@@ -3,6 +3,7 @@ Welcome to my page!
 I am a web developer from South Korea🇰🇷.
 
 <h3>Things I code with</h3>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 
 
