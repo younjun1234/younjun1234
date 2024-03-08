@@ -1,8 +1,9 @@
-Hi there 👋
+# Hi there 👋
 Welcome to my page!
 I am a web developer from South Korea🇰🇷.
 
-Things I code with
+# Things I code with
+
 ![Static Badge](https://img.shields.io/badge/demo-red)
 
 
