@@ -3,7 +3,6 @@ Welcome to my page!
 I am a web developer from South Korea🇰🇷.
 
 <h3>Things I code with</h3>
-![HTML](https://img.shields.io/badge/HTML-Used-orange)
 
 
 
