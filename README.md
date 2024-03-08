@@ -1,8 +1,8 @@
-<h2>Hi there 👋</h2>
+Hi there 👋
 Welcome to my page!
 I am a web developer from South Korea🇰🇷.
 
-<h3>Things I code with</h3>
+Things I code with
 ![Static Badge](https://img.shields.io/badge/demo-red)
 
 
