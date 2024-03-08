@@ -1,10 +1,9 @@
 <h2>Hi there 👋</h2>
-<hr>
 Welcome to my page!
-I am a web developer from South Korea<h1>🇰🇷</h1>.
+I am a web developer from South Korea🇰🇷.
 
 <h3>Things I code with</h3>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
 
 
